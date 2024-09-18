@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+.numbers {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+$primary-color01: #ffffff;
+$primary-color02: #f3f6f8;
+$primary-color03: #d90e32;
+$primary-color04: #ededed;
+$background-color01: #f0f0f0;
+$background-color02: #282828;
+$background-color-success: #e4f5dd;
+$background-color-hover: rgba(255, 255, 255, 0.2);
+
+$font-color: #293148;
+$font-color-muted: #7a7a7a;
+$font-color-dark: #293148cc;
+$font-color-done: #7fc75e;
+$font-color-light: #29314899;
+$font-color-muted02: rgba(255, 255, 255, 0.45);
+
+$border-color: #e4e4e4;
+$border-color-muted: #29314873;
+$box-shadow-color: rgba(0, 0, 0, 0.1);
+
+h1,
+h2,
+h3 {
+  color: $font-color;
+}
